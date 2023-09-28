@@ -11,6 +11,7 @@ querystring = {
 
 headers = {
     "host": "www.linkedin.com",
+    
     "connection": "keep-alive",
     "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
     "sec-ch-ua-mobile": "?0",
